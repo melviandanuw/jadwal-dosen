@@ -4,7 +4,17 @@
             "outputFile": "/Users/ynwa/Documents/Kuliah/Mobile Programming/Semester 4/jadwal-dosen/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v24/values-v24.xml",
             "map": [
                 {
-                    "source": "/Users/ynwa/.gradle/caches/transforms-1/files-1.1/media-1.0.0.aar/3a2f0c1b868f8baeb30677d46b49879a/res/values-v24/values-v24.xml",
+                    "source": "/Users/ynwa/.gradle/caches/transforms-2/files-2.1/417271572ef048b34e6e46b97c01a65a/appcompat-1.0.0/res/values-v24/values-v24.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,212",
+                        "endColumns": "156,134",
+                        "endOffsets": "207,342"
+                    }
+                },
+                {
+                    "source": "/Users/ynwa/.gradle/caches/transforms-2/files-2.1/05262f07e46b417e039eb5ae9f0de398/media-1.0.0/res/values-v24/values-v24.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",
@@ -18,16 +28,6 @@
                         "startOffsets": "347,413,474,540",
                         "endColumns": "65,60,65,66",
                         "endOffsets": "408,469,535,602"
-                    }
-                },
-                {
-                    "source": "/Users/ynwa/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0.aar/aeed8ba99529838b8183dabd7fa325c7/res/values-v24/values-v24.xml",
-                    "from": {
-                        "startLines": "2,3",
-                        "startColumns": "4,4",
-                        "startOffsets": "55,212",
-                        "endColumns": "156,134",
-                        "endOffsets": "207,342"
                     }
                 }
             ]

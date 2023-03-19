@@ -4,7 +4,7 @@
             "outputFile": "/Users/ynwa/Documents/Kuliah/Mobile Programming/Semester 4/jadwal-dosen/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw360dp-v13/values-sw360dp-v13.xml",
             "map": [
                 {
-                    "source": "/Users/ynwa/.gradle/caches/transforms-1/files-1.1/preference-1.0.0.aar/1da0c2bf5a879b9c8cb3ac2e94b2e9e6/res/values-sw360dp-v13/values-sw360dp-v13.xml",
+                    "source": "/Users/ynwa/.gradle/caches/transforms-2/files-2.1/29e6271581e02a0ba3b5bb2fa31c019c/preference-1.0.0/res/values-sw360dp-v13/values-sw360dp-v13.xml",
                     "from": {
                         "startLines": "2,3",
                         "startColumns": "4,4",

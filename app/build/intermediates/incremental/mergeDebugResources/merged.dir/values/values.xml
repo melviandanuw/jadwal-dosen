@@ -17,6 +17,7 @@
     <enum name="fixed_width" value="1"/>
     <enum name="fixed_height" value="2"/>
     <enum name="fill" value="3"/>
+    <enum name="zoom" value="4"/>
   </attr>
     <attr format="integer" name="rewind_increment"/>
     <attr format="boolean" name="show_shuffle_button"/>
@@ -5029,7 +5030,8 @@
         <!-- Attribute for background color of the arrow in PagingIndicator. -->
         <attr format="reference" name="arrowBgColor"/>
     </declare-styleable>
-    <declare-styleable name="PlaybackControlView"><attr name="show_timeout"/><attr name="rewind_increment"/><attr name="fastforward_increment"/><attr name="repeat_toggle_modes"/><attr name="show_shuffle_button"/><attr name="controller_layout_id"/></declare-styleable>
+    <declare-styleable name="PlayerControlView"><attr name="show_timeout"/><attr name="rewind_increment"/><attr name="fastforward_increment"/><attr name="repeat_toggle_modes"/><attr name="show_shuffle_button"/><attr name="controller_layout_id"/></declare-styleable>
+    <declare-styleable name="PlayerView"><attr format="boolean" name="use_artwork"/><attr format="color" name="shutter_background_color"/><attr format="reference" name="default_artwork"/><attr format="boolean" name="use_controller"/><attr format="boolean" name="hide_on_touch"/><attr format="boolean" name="hide_during_ads"/><attr format="boolean" name="auto_show"/><attr name="resize_mode"/><attr name="surface_type"/><attr name="player_layout_id"/><attr name="show_timeout"/><attr name="rewind_increment"/><attr name="fastforward_increment"/><attr name="repeat_toggle_modes"/><attr name="show_shuffle_button"/><attr name="controller_layout_id"/></declare-styleable>
     <declare-styleable name="PopupWindow">
         <!-- Whether the popup window should overlap its anchor view. -->
         <attr format="boolean" name="overlapAnchor"/>
@@ -5304,7 +5306,6 @@
         By default, this view is VISIBLE. -->
         <attr format="boolean" name="showSeekBarValue"/>
     </declare-styleable>
-    <declare-styleable name="SimpleExoPlayerView"><attr format="boolean" name="use_artwork"/><attr format="color" name="shutter_background_color"/><attr format="reference" name="default_artwork"/><attr format="boolean" name="use_controller"/><attr format="boolean" name="hide_on_touch"/><attr format="boolean" name="hide_during_ads"/><attr format="boolean" name="auto_show"/><attr name="resize_mode"/><attr name="surface_type"/><attr name="player_layout_id"/><attr name="show_timeout"/><attr name="rewind_increment"/><attr name="fastforward_increment"/><attr name="repeat_toggle_modes"/><attr name="show_shuffle_button"/><attr name="controller_layout_id"/></declare-styleable>
     <declare-styleable name="Spinner">
         <!-- The prompt to display when the spinner's dialog is shown. -->
         <attr name="android:prompt"/>

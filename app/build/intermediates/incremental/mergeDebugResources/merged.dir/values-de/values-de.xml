@@ -27,17 +27,17 @@
     <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Freigeben für"</string>
     <string msgid="3300176832234831527" name="abc_shareactionprovider_share_with_application">"Mit <ns1:g id="APPLICATION_NAME">%s</ns1:g> teilen"</string>
     <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Minimieren"</string>
-    <string name="exo_controls_fastforward_description">"Vorspulen"</string>
-    <string name="exo_controls_next_description">"Nächster Titel"</string>
-    <string name="exo_controls_pause_description">"Pausieren"</string>
-    <string name="exo_controls_play_description">"Wiedergabe"</string>
-    <string name="exo_controls_previous_description">"Vorheriger Titel"</string>
-    <string name="exo_controls_repeat_all_description">"Alle wiederholen"</string>
-    <string name="exo_controls_repeat_off_description">"Keinen Titel wiederholen"</string>
-    <string name="exo_controls_repeat_one_description">"Einen Titel wiederholen"</string>
-    <string name="exo_controls_rewind_description">"Zurückspulen"</string>
-    <string name="exo_controls_shuffle_description">"Zufallsmix"</string>
-    <string name="exo_controls_stop_description">"Beenden"</string>
+    <string msgid="2382411136909255532" name="exo_controls_fastforward_description">"Vorspulen"</string>
+    <string msgid="7044845014191647105" name="exo_controls_next_description">"Nächster Titel"</string>
+    <string msgid="7924816224515798262" name="exo_controls_pause_description">"Pausieren"</string>
+    <string msgid="2326300949114396072" name="exo_controls_play_description">"Wiedergeben"</string>
+    <string msgid="4729846277375475426" name="exo_controls_previous_description">"Vorheriger Titel"</string>
+    <string msgid="8909385102773547833" name="exo_controls_repeat_all_description">"Alle wiederholen"</string>
+    <string msgid="2273550552389469729" name="exo_controls_repeat_off_description">"Keinen wiederholen"</string>
+    <string msgid="475266640141093764" name="exo_controls_repeat_one_description">"Einen wiederholen"</string>
+    <string msgid="5799450167394904608" name="exo_controls_rewind_description">"Zurückspulen"</string>
+    <string msgid="1374364424026734323" name="exo_controls_shuffle_description">"Zufallsmix"</string>
+    <string msgid="121453720915069922" name="exo_controls_stop_description">"Beenden"</string>
     <string msgid="1234962710353108940" name="expand_button_title">"Erweitert"</string>
     <string msgid="2721825378927619928" name="lb_control_display_fast_forward_multiplier">"%1$dX"</string>
     <string msgid="6173753802428649303" name="lb_control_display_rewind_multiplier">"%1$dX"</string>

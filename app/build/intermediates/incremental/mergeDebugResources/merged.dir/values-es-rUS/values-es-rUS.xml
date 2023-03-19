@@ -27,17 +27,17 @@
     <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Compartir con"</string>
     <string msgid="3300176832234831527" name="abc_shareactionprovider_share_with_application">"Compartir con <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
     <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Contraer"</string>
-    <string name="exo_controls_fastforward_description">"Avanzar"</string>
-    <string name="exo_controls_next_description">"Siguiente pista"</string>
-    <string name="exo_controls_pause_description">"Pausar"</string>
-    <string name="exo_controls_play_description">"Reproducir"</string>
-    <string name="exo_controls_previous_description">"Pista anterior"</string>
-    <string name="exo_controls_repeat_all_description">"Repetir todo"</string>
-    <string name="exo_controls_repeat_off_description">"No repetir"</string>
-    <string name="exo_controls_repeat_one_description">"Repetir uno"</string>
-    <string name="exo_controls_rewind_description">"Retroceder"</string>
-    <string name="exo_controls_shuffle_description">"Reproducir aleatoriamente"</string>
-    <string name="exo_controls_stop_description">"Detener"</string>
+    <string msgid="2382411136909255532" name="exo_controls_fastforward_description">"Avanzar"</string>
+    <string msgid="7044845014191647105" name="exo_controls_next_description">"Pista siguiente"</string>
+    <string msgid="7924816224515798262" name="exo_controls_pause_description">"Pausar"</string>
+    <string msgid="2326300949114396072" name="exo_controls_play_description">"Reproducir"</string>
+    <string msgid="4729846277375475426" name="exo_controls_previous_description">"Pista anterior"</string>
+    <string msgid="8909385102773547833" name="exo_controls_repeat_all_description">"Repetir todo"</string>
+    <string msgid="2273550552389469729" name="exo_controls_repeat_off_description">"No repetir"</string>
+    <string msgid="475266640141093764" name="exo_controls_repeat_one_description">"Repetir uno"</string>
+    <string msgid="5799450167394904608" name="exo_controls_rewind_description">"Retroceder"</string>
+    <string msgid="1374364424026734323" name="exo_controls_shuffle_description">"Reproducir aleatoriamente"</string>
+    <string msgid="121453720915069922" name="exo_controls_stop_description">"Detener"</string>
     <string msgid="1234962710353108940" name="expand_button_title">"Opciones avanzadas"</string>
     <string msgid="2721825378927619928" name="lb_control_display_fast_forward_multiplier">"%1$dX"</string>
     <string msgid="6173753802428649303" name="lb_control_display_rewind_multiplier">"%1$dX"</string>

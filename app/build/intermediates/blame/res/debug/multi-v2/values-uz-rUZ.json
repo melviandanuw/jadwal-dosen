@@ -4,7 +4,7 @@
             "outputFile": "/Users/ynwa/Documents/Kuliah/Mobile Programming/Semester 4/jadwal-dosen/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-uz-rUZ/values-uz-rUZ.xml",
             "map": [
                 {
-                    "source": "/Users/ynwa/.gradle/caches/transforms-1/files-1.1/jetified-exoplayer-ui-2.6.1.aar/04caba19c6a6690534990edd8e698a9f/res/values-uz-rUZ/values-uz-rUZ.xml",
+                    "source": "/Users/ynwa/.gradle/caches/transforms-2/files-2.1/be1656f962092fb024c834b4b19bae27/jetified-exoplayer-ui-2.7.3/res/values-uz-rUZ/values-uz-rUZ.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
